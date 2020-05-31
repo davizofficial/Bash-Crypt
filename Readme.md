@@ -1,4 +1,4 @@
-# bash-crypt
+# Bash-Crypt
 Bash-Crypt is an open source project 
 ## Clone
 ```
