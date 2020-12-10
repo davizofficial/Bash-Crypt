@@ -31,7 +31,5 @@ $ php enc.php
 # Screenshots
 <img src="bin/img/script.jpg">
 <img src="bin/img/code.png">
-<h1> License </h1>
-<img src="img/wtfpl.png">
 
 <br>Copyright 2020 (c) Daviz Official
